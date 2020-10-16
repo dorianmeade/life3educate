@@ -5,3 +5,5 @@ chatbot preview link: https://web-chat.global.assistant.watson.cloud.ibm.com/pre
 prompt "what is" + career to get definition
 
 prompt "I need a" + career to get resume snippets from those professionals
+
+career options include: web developer, UI designer, UX designer
